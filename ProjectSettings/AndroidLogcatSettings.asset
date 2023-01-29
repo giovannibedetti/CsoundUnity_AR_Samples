@@ -1,0 +1,137 @@
+{
+    "m_SelectedDeviceId": "0B201JECB13465",
+    "m_SelectedPackage": {
+        "deviceId": "0B201JECB13465",
+        "name": "com.Preloaded.TestAR",
+        "processId": 7158,
+        "exited": true
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "520046e4fec15431",
+            "name": "com.sec.android.app.launcher",
+            "processId": 4478,
+            "exited": false
+        },
+        {
+            "deviceId": "520046e4fec15431",
+            "name": "com.Preloaded.TestAR",
+            "processId": 19576,
+            "exited": true
+        },
+        {
+            "deviceId": "520046e4fec15431",
+            "name": "com.Preloaded.TestAR",
+            "processId": 23363,
+            "exited": true
+        },
+        {
+            "deviceId": "520046e4fec15431",
+            "name": "com.Preloaded.TestAR",
+            "processId": 30348,
+            "exited": true
+        },
+        {
+            "deviceId": "520046e4fec15431",
+            "name": "com.Preloaded.TestAR",
+            "processId": 13847,
+            "exited": true
+        },
+        {
+            "deviceId": "520046e4fec15431",
+            "name": "com.Preloaded.TestAR",
+            "processId": 18475,
+            "exited": true
+        },
+        {
+            "deviceId": "0B201JECB13465",
+            "name": "com.Preloaded.TestAR",
+            "processId": 21928,
+            "exited": true
+        },
+        {
+            "deviceId": "0B201JECB13465",
+            "name": "com.Preloaded.TestAR",
+            "processId": 27608,
+            "exited": true
+        },
+        {
+            "deviceId": "0B201JECB13465",
+            "name": "com.Preloaded.TestAR",
+            "processId": 28848,
+            "exited": true
+        },
+        {
+            "deviceId": "0B201JECB13465",
+            "name": "com.Preloaded.TestAR",
+            "processId": 29843,
+            "exited": true
+        },
+        {
+            "deviceId": "0B201JECB13465",
+            "name": "com.Preloaded.TestAR",
+            "processId": 7158,
+            "exited": true
+        },
+        {
+            "deviceId": "0B201JECB13465",
+            "name": "com.google.android.apps.nexuslauncher",
+            "processId": 2372,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 255.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": true,
+    "m_SymbolPaths": []
+}

@@ -1,0 +1,1 @@
+for %%A in (*.wav) DO ffmpeg -i "%%A" -ac 1 "%%A_mono.wav"
