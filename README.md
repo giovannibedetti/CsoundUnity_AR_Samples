@@ -2,9 +2,11 @@
 
 A collection of AR samples for CsoundUnity
 
+Tested on Android 64bit
 
 ## Analyse
-This scene performs the analysis of 4 audio tracks and uses the retrieved frequency and rms amplitude to drive VFXs or animations.
+This scene performs the analysis of 4 audio tracks and uses the retrieved frequency and rms amplitude to drive VFXs or animations.  
+After building, frame the floor or any flat surface. Tap a surface to place an audio track, it will start playing. After placing all 4 tracks, the next tap will remove them and you can start again.   
 VFXs are very basic, but it should be enough to get started implementing your own effects.
 
 The Csound GameObject contains a CsoundManager, where you can set the tracks that you want to analyse.
@@ -19,4 +21,5 @@ Be sure to grab legal values for the Low/High settings for each track (the minim
 
 ## AnalyseAndRecord
 This scene allows you to record the entire analysis of the Analyse scene in a text file that can be used instead of having to do the analysis on every run, to save resources.
+There's no need to build this scene, you can perform the computation on the editor.  
 Code for reading the txt file is not provided here.
